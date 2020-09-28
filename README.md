@@ -6,7 +6,9 @@ As with all Hello Worlds it does very litte other than give you something to fol
 
 ### Notes
 
-* You can only invoke modules from other modules. So any code in your JavaScript app that builds on modules, which would seem to be all of it, has to be contained in a module. To make something  a module you just have to include it with a &lt;script> element with a type attribte of "module".
+* You can only invoke modules from other modules. So any code in your JavaScript app that builds on modules, which would seem to be all of it, has to be contained in a module. 
+
+* To make something  a module you just have to include it with a &lt;script> element with a type attribute of "module".
 
 * The first thing code.js does is import secsSince from module.js. You must refer to module.js as "./module.js" -- it won't work if you refer to it as "module.js".
 
