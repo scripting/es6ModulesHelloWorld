@@ -20,3 +20,13 @@ As with all Hello Worlds it does very litte other than give you something to fol
 
 * To run the code without downloading, <a href="http://scripting.com/code/moduleshello/">click here</a>.
 
+### Links
+
+* <a href="https://javascript.info/modules-intro">Modules, introduction</a>.
+
+* <a href="https://github.com/mdn/js-examples/tree/master/modules">JavaScript module examples</a>.
+
+* <a href="https://blog.vanila.io/es6-modules-ccd896b50d22">ES6 Modules</a>.
+
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules">JavaScript modules</a>.
+
