@@ -30,3 +30,7 @@ As with all Hello Worlds it does very litte other than give you something to fol
 
 * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules">JavaScript modules</a>.
 
+### Blog post
+
+* Dave's <a href="http://scripting.com/2020/09/29.html#a160251">blog post</a> on this project.
+
