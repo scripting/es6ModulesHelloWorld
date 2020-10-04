@@ -2,7 +2,7 @@
 
 A minimal app that uses modules as defined in ES6. 
 
-As with all Hello Worlds it does very litte other than give you something to follow to get started with your own apps. 
+As with all Hello Worlds it does very little other than give you something to follow to get started with your own apps. 
 
 ### Notes
 
